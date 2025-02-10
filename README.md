@@ -1,5 +1,6 @@
 - @n1majn3b
-- I’m interested in c,c++,python, javascript, Three.js
+- c,c++,python, javascript 
+- webgl, Three.js
 
 <!---
 n1majn3b/n1majn3b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
